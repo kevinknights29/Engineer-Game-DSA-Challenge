@@ -1,13 +1,6 @@
-# Python-Dev-Container-Template
+# Engineer-Game-DSA-Challenge
 
-This is a template for Python projects leveraging a Dev Container with VS Code.
-
-## Checklist
-
-Remove once all items have been checked.
-
-- [ ] [Dev Container Name](.devcontainer/devcontainer.json) - Line 2
-- [ ] [Project Details](pyproject.toml) - Line 2-9
+This project contains solutions to the Data Structure and Algorithm Challenge from the program [`Engineer Game`](https://www.engineergame.com/).
 
 ## Challenge
 
@@ -186,7 +179,6 @@ Remove once all items have been checked.
 **Node-to-Root Path:**
 
 - [ ] Find the path from a node to the root of a binary tree.
-
 
 ## Learning Logs
 
