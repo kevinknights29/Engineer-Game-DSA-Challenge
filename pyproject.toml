@@ -1,10 +1,10 @@
 [project]
-name = "python dev-container template"
-version = "0.4.0"
+name = "eg-dsa-challenge"
+version = "0.0.0"
 authors = [
   {name = "Kevin Knights", email = "kevin.k.knights@gmail.com"},
 ]
-description = "This is a template for Python projects leveraging a Dev Container with VS Code."
+description = "This project contains solutions to the Data Structure and Algorithm Challenge from the program `Engineer Game`."
 readme = "README.md"
 license = {file = "LICENSE"}
 
