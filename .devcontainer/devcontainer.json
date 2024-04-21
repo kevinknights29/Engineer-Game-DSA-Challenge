@@ -1,5 +1,5 @@
 {
-    "name": "python-template",
+    "name": "eg-dsa-challenge",
     "build": {
         "dockerfile": "Dockerfile",
         "context": "."
